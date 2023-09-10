@@ -6,8 +6,8 @@
 Welcome to the Bikeshare Demand Analysis project repository. This project explores bike rental patterns using data analysis and statistical modeling. It aims to answer critical business questions related to bike rentals and factors influencing them.
 
 ## Project Files
-- **Bikeshare Report**: [Link to Report](#) (Insert link to your report if available)
-- **Bikeshare R File**: [Bikeshare.r](Bikeshare.r) (Insert link to your R code file)
+- **Bikeshare Report**
+- **Bikeshare R File**
 
 ## Data
 The project utilizes the "Bikeshare.xlsx" dataset, which includes information on bike rentals, weather conditions, and timestamps. The dataset is preprocessed and analyzed using R.
@@ -34,6 +34,6 @@ Detailed results, statistical summaries, and visualizations for each business qu
 ## Conclusion
 The Bikeshare Demand Analysis project provides valuable insights into bike rental patterns. It enhances our understanding of the factors affecting rentals and offers data-driven recommendations. Feel free to explore the code and results for a deeper understanding of bike rental demand in the dataset.
 
-For questions or inquiries, please contact the project owner, [Your Name], at [Your Email Address].
+For questions or inquiries, please contact the project owner, Gagan Deep Alusuri, at alusurigagandeep@gmail.com.
 
 Happy analyzing! 🚴‍♂️📊
